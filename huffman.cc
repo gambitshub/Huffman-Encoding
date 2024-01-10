@@ -1,4 +1,5 @@
 /**************************************************************
+ *  Author: James Daniels
  *  C++ code reads in .txt file, generates Huffman Encoding,
  *  encodes, writes, reads and decodes messages.
  * 
