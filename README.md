@@ -1,3 +1,3 @@
 # Huffman Coding
 
-[https://en.wikipedia.org/wiki/Huffman_coding]
+Wiki: https://en.wikipedia.org/wiki/Huffman_coding
